@@ -57,12 +57,12 @@ password: 123456
 ## Screenshots
 
 <div align="center">
-    <img width="200" src="./src/assets/ss/s1.jpg">   
-    <img width="200" src="./src/assets/ss/s2.jpg">
+    <img width="200" src="./src/assets/ss/ss1.jpg">   
+    <img width="200" src="./src/assets/ss/ss2.jpg">
 </div>
 <div align="center">
-    <img width="200" src="./src/assets/ss/s3.jpg">   
-    <img width="200" src="./src/assets/ss/s4.jpg">
+    <img width="200" src="./src/assets/ss/ss3.jpg">   
+    <img width="200" src="./src/assets/ss/ss4.jpg">
 </div>
 
 ## Release APK
