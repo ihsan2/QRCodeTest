@@ -12,7 +12,7 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
-- [User Login](#user-ogin)
+- [User Login](#user-login)
 - [Screenshots](#screenshots)
 - [Release APK](#release-apk)
 - [Contact](#contact)
